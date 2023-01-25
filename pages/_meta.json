@@ -1,3 +1,15 @@
 {
-    "index": "Introducción"
+    "index": "Introducción",
+    "prologue" : {
+        "title": "Prologo"
+    },
+    "getting-started": "Empezando",
+    "architecture": "Conceptos de arquitectura",
+    "basics": "Fundamentos",
+    "digging-deeper": "Digging Deeper",
+    "security": "Seguridad",
+    "database": "Base de datos",
+    "eloquent": "Eloquent ORM",
+    "testing": "Testing",
+    "packages": "Packages"    
 }
